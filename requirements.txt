@@ -1,11 +1,10 @@
-flask
-joblib
-scikit-learn
-xgboost
-pandas
-numpy
-gunicorn
-
+flask==2.3.3
+gunicorn==21.2.0
+joblib==1.3.2
+scikit-learn==1.5.2
+xgboost==1.7.6
+pandas==2.1.1
+numpy==1.26.0
 
 
 
@@ -20,3 +19,4 @@ gunicorn
 
 
 # run pip install -r requirements.txt
+
